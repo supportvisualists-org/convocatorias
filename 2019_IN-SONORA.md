@@ -8,7 +8,7 @@ https://in-sonora.org/ficha-convocatoria/convocatoria-in-sonora-11-open-call-201
 #Fecha inscripción
 
     1 febrero, 2019 - inicio
-    31 marzo, 2019 - fin
+    31 marzo, 2019 - fin  
 
 #Fecha de realización
 
