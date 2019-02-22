@@ -40,7 +40,7 @@ El proceso de asignación de las becas será llevado a cabo por comisiones evalu
 Perfil curricular y realizaciones previas del solicitante (peso del 50%).
 Originalidad y carácter innovador de la propuesta (peso del 50%).
 
- 
+  
 
 #PARA MÁS INFORMACIÓN:
 www.redleonardo.es
