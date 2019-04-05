@@ -1,6 +1,7 @@
 # Open Call for Entries
-Deadline: 
-May 17th, 2019
+## Deadline: May 17th, 2019
+
+
 CERN and the city of Barcelona are proud to launch Collide International residency award as part of a 3-years collaboration
  
 
