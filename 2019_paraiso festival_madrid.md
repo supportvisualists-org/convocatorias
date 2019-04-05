@@ -7,7 +7,7 @@ Campus de la UCM - Madrid
 Edición II
 
 
-#Presentación
+# Presentación
 
 PARAÍSO quiere apoyar a artistas y colectivos emergentes, ofreciendo una plataforma en la que mostrar y difundir su trabajo. Esta convocatoria está dirigida a la producción de una obra original e inédita, para su exposición durante la segunda edición del festival, que se celebrará en el campus de la Universidad Complutense de Madrid los días 14 y 15 de junio de 2019.
 
@@ -19,12 +19,12 @@ Con esta convocatoria, PARAÍSO busca proyectos de instalación, escultura de gr
 Artistas mayores de edad, de cualquier nacionalidad y lugar de residencia, de manera individual o como parte de un colectivo, que a la fecha de cierre de la convocatoria no superen los 35 años.
 
      
-#Plazos
+# Plazos
 
 El plazo de presentación de proyectos finaliza el 15 de marzo de 2019 a las 23:59h (hora en España). No se aceptará ningún envío fuera de plazo.
 
      
-#Dotación económica
+# Dotación económica
 
 La dotación económica será de un máximo de 7.000 €, sujeta a la legislación impositiva aplicable. Si el proyecto seleccionado pudiese producirse por un presupuesto inferior, el jurado podrá elegir un segundo proyecto que pueda producirse por el importe restante.
 
@@ -33,7 +33,7 @@ El jurado podrá declarar desierta la convocatoria por razones de calidad.
 Una vez finalizada la exposición en el festival, la obra producida será propiedad del artista.
 
      
-#Documentación: presentación y plazo de entrega
+# Documentación: presentación y plazo de entrega
 
 Los participantes deben registrarse en el formulario habilitado a tal efecto en www.paraisofestival.com. El dossier que se les solicitará para completar el formulario debe tener una extensión máxima de diez páginas y un peso máximo de 5 Mb, y debe incluir:
 Memoria del artista/colectivo, con statement, biografía, trayectoria profesional y datos de contacto.
@@ -52,21 +52,21 @@ El presupuesto del proyecto debe incluir los gastos derivados de la producción 
 
      
 
-#Selección y notificación del ganador
+# Selección y notificación del ganador
 
 El jurado que seleccionará el proyecto estará compuesto por profesionales del sector cultural y representantes de PARAÍSO, y podrá solicitar ampliación de información sobre el proyecto presentado. Su decisión final será inapelable. El fallo del jurado se notificará al artista/colectivo seleccionado vía email o teléfono la primera quincena de abril, antes de su publicación en los canales oficiales del festival: página web, newsletter y redes sociales.
 
 Además, PARAÍSO comunicará al artista o colectivo seleccionado el lugar asignado para la exposición de su obra en el recinto del festival.
 
      
-#Plazos de ejecución
+# Plazos de ejecución
 
 Dado que la obra se expondrá durante la celebración del festival, los días 14 y 15 de junio de 2019, la obra deberá completamente finalizada el día 13 de junio de 2019.
 
 El equipo técnico de PARAÍSO será el encargado de prestar su apoyo al artista o colectivo en las tareas de coordinación del montaje y desmontaje de la obra y, en caso necesario, facilitar personal de carga y descarga, tomas de electricidad y agua, y personal de seguridad durante el festival.
 
      
-#Obligaciones del artista/colectivo seleccionado
+# Obligaciones del artista/colectivo seleccionado
 
 El artista o colectivo seleccionado adquiere las siguientes obligaciones:
 Producir  la obra de acuerdo al plan, cronograma y presupuesto presentado.
@@ -77,21 +77,21 @@ Realizar el montaje y desmontaje de la obra de acuerdo al plan presentando, aten
      
 
      
-#Difusión
+# Difusión
 
 Con el fin de divulgar el ganador de la convocatoria y la exposición de la obra en cualquier medio y soporte, los artistas cederán a PARAÍSO, indefinidamente, los derechos de difusión del proyecto seleccionado. Así mismo, el ganador estará disponible para la realización de entrevistas con los medios.
 
 Así mismo, si la obra se volviese a representar en el futuro, el artista/colectivo se compromete a especificar que la obra ha sido coproducida con PARAÍSO.
 
      
-#Pago de la dotación
+# Pago de la dotación
 
 El pago de la dotación económica al artista/colectivo beneficiario se efectuará mediante transferencia bancaria al finalizar la exposición de la obra, en los 10 días siguientes a la finalización del festival, previa presentación de la factura correspondiente.
 
 El artista/colectivo seleccionado podrá solicitar un adelanto hasta un máximo del 50% de la dotación económica, justificando esta necesidad e indicando el fin específico de dicho adelanto.
 
      
-#Aceptación de las bases
+# Aceptación de las bases
 
 El hecho de participar en la convocatoria supone la total aceptación de las presentes bases, quedando facultado PARAÍSO para dirimir cualquier eventualidad no prevista en ellas. Su decisión será inapelable.
 
