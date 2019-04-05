@@ -7,11 +7,11 @@ Campus de la UCM - Madrid
 Edición II
 
 
-    #Presentación
+#Presentación
 
-    PARAÍSO quiere apoyar a artistas y colectivos emergentes, ofreciendo una plataforma en la que mostrar y difundir su trabajo. Esta convocatoria está dirigida a la producción de una obra original e inédita, para su exposición durante la segunda edición del festival, que se celebrará en el campus de la Universidad Complutense de Madrid los días 14 y 15 de junio de 2019.
+PARAÍSO quiere apoyar a artistas y colectivos emergentes, ofreciendo una plataforma en la que mostrar y difundir su trabajo. Esta convocatoria está dirigida a la producción de una obra original e inédita, para su exposición durante la segunda edición del festival, que se celebrará en el campus de la Universidad Complutense de Madrid los días 14 y 15 de junio de 2019.
 
-    Con esta convocatoria, PARAÍSO busca proyectos de instalación, escultura de gran formato o intervención efímera en el espacio que, desde diferentes aproximaciones teóricas, lenguajes y soportes, indaguen en las relaciones de las personas entre sí y con la naturaleza, y en cómo estas relaciones se ven afectadas por el consumo y la tecnología. Se valorarán especialmente aquellos proyectos que busquen la interacción con el público.
+Con esta convocatoria, PARAÍSO busca proyectos de instalación, escultura de gran formato o intervención efímera en el espacio que, desde diferentes aproximaciones teóricas, lenguajes y soportes, indaguen en las relaciones de las personas entre sí y con la naturaleza, y en cómo estas relaciones se ven afectadas por el consumo y la tecnología. Se valorarán especialmente aquellos proyectos que busquen la interacción con el público.
 
      
     #Quién puede participar
