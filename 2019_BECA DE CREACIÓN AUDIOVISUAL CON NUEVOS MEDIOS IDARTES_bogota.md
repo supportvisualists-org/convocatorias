@@ -5,6 +5,7 @@ https://drive.google.com/file/d/0B0RBK1tIrLmATDhLRlZDdUhadFZ5aFpQYkh0UmZLdTBORUd
 Le recomendamos leer las condiciones generales de participación del PDE
  
 # Información básica
+
 Línea estratégica Creación
 Área Audiovisuales
 Número de estímulos 1
