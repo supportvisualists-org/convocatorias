@@ -4,7 +4,7 @@ https://luzyvanguardias.com/concurso-2019/
 # BASES DEL PREMIO CONCURSO VIDEOMAPPING
   PLAZA MAYOR DE SALAMANCA – FACHADA DEL AYUNTAMIENTO
   13-16 junio de 2019
-
+ 
 
 La IV edición del Luz y Vanguardias incluye dentro de su programación un concurso internacional de videomapping abierto a artistas audiovisuales profesionales o amateur.
 Las obras presentadas a concurso serán proyectadas en la fachada Barroca del Ayuntamiento de Salamanca situada en la Plaza Mayor de la ciudad, durante la celebración de la IV edición del festival. El concurso se rige de acuerdo a las siguientes bases:
