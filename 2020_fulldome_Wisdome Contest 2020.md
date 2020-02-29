@@ -1,3 +1,8 @@
+---
+post_title: 'Post Title'
+layout: post_type_probably_post
+published: true_or_false
+---
 https://www.fddb.org/news/call-for-submissions-wisdome-contest-2020/
 
 DEADLINE: 2020-03-06
