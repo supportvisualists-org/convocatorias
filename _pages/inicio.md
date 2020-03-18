@@ -18,7 +18,7 @@ Si login, infos y links organizacion privado
 
 <div class="home-descripcion apartat">
 <div class="container col-sm-12">
-<h2>Qué es #supportvisualists</h2>
+<h2>Qué es #support<b>visualists</b></h2>
 Descripción, funcionamiento, código conducta
 (LINKS organización colectivo público)
 </div>
