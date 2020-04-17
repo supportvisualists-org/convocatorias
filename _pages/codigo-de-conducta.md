@@ -45,13 +45,14 @@ Se espera de todas las personas que conforman la comunidad el inmediato cumplimi
 
 Cualquier comportamiento inaceptable será sancionado por la organización de la comunidad, de cualquier forma que se considere apropiada, incluyendo la suspensión temporal o permanente de la participación en la comunidad, sin previo aviso (y sin reintegro del dinero, en caso de ser un evento pago).
 <h3>Si es testigo o víctima de comportamiento inaceptable</h3>
-Si Ud. es víctima o testigo de comportamiento inaceptable, o tiene cualquier otra preocupación o problema, por favor notifíquelo a la organización de la comunidad tan pronto como sea posible. Puede encontrar una lista de personas de la organización de la comunidad a contactar al final de esta página.
-Además, organizadores y organizadoras de la comunidad se encuentran disponibles para ayudar a integrantes a contactar a las fuerzas policiales locales o, de lo contrario, para ayudar a sentirse seguras a aquellas personas que hayan sido víctimas de comportamiento inaceptable. En el contexto de eventos presenciales, la organización también proveerá escolta a las personas que hayan sufrido dichas experiencias.
+Si eres víctima o testigo de un comportamiento inaceptable, o tiene cualquier otra preocupación o problema, por favor notifíquelo a la administración de la comunidad tan pronto como sea posible. Puede encontrar una lista de personas de la organización de la comunidad a contactar al final de esta página.
+
+Además en eventos presenciales , organizadores y organizadoras de la comunidad se encuentran disponibles para ayudar a sus integrantes a sentirse seguras si han sido víctimas de comportamiento inaceptable acompañandolas en todo momento mientras dure el conflicto, así como a contactar con las fuerzas policiales locales.
 <h3>Desagravios</h3>
-Si Ud. siente que ha sido falsa o injustamente acusado/a de violar este Código de Conducta, se le sugiere notificar a alguien de la organización del evento con una descripción concisa del agravio. El mismo será contemplado y resuelto de acuerdo a las políticas existentes.
+Si siente que ha sido falsa o injustamente acusade de violar nuestro Código de Conducta, se le sugiere notificar a alguien de la organización con una descripción concisa del agravio, que será contemplado y resuelto de acuerdo a las políticas existentes.
 <h3>Alcance</h3>
-Se espera que toda persona que participe de la comunidad (colaboradores/as —pagos o no—, patrocinadores y personas invitadas) se atengan a este Código de Conducta en todos los lugares de encuentro de la comunidad –online o en persona– así como en todas las comunicaciones uno/a-a-uno/a relacionadas con actividades de la comunidad.
+Se espera que toda persona que participe de la comunidad (colaboradores/as —pagos o no—, patrocinio y personas invitadas) se atengan a este Código de Conducta en todos los lugares de encuentro de la comunidad –online o en persona– así como en todas las comunicaciones públicas o privadas relacionadas con actividades de la comunidad.
 <h3>Licencia y atribución</h3>
-Este código de conducta se encuentra distribuido bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) misma licencia en el que está basado: el Berlin Code of Conduct en su versión en castellano.
+Este código de conducta ha sido basado, modificado y ampliado en el <a href="https://berlincodeofconduct.org/es/">Berlin Code o Conduct</a>. Por eso se encuentra distribuido bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) misma licencia en que se publica el original
 <h3>Personas de contacto de la organización</h3>
 General Supportvisualists info@supportvisualists.org
