@@ -51,4 +51,4 @@ Se espera que toda persona que participe de la comunidad (colaboradores/as —pa
 <h3>Licencia y atribución</h3>
 Este código de conducta ha sido basado, modificado y ampliado en el <a href="https://berlincodeofconduct.org/es/">Berlin Code o Conduct</a>. Por eso se encuentra distribuido bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) misma licencia en que se publica el original
 <h3>Personas de contacto de la organización</h3>
-General Supportvisualists info@supportvisualists.org
+<p style="text-align: center;">General Supportvisualists info@supportvisualists.org</p>
