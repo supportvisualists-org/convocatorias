@@ -10,24 +10,37 @@ published: true
 post_date: 2020-04-17 17:31:19
 ---
 <h3>Propósito</h3>
-Un objetivo principal de todas las conferencias y comunidades que se refieran a este Código de Conducta es que sea inclusivo para la mayor cantidad de personas, con la mayor variedad de orígenes y conocimientos posibles. Como tal, nos comprometemos a ofrecer un ambiente amigable, seguro y acogedor para todos, todas y todes, sin importar género, orientación sexual, discapacidad, etnia, estado socio-económico, religión o creencia.
-Este Código de Conducta expresa nuestras expectativas con respecto a quienes participan de nuestra comunidad, así como también las consecuencias de comportamientos inaceptables.
-Invitamos a todas las personas que participan de nuestros eventos a ayudarnos a crear experiencias seguras y positivas para el conjunto.
+Un objetivo principal de esta plataforma es crear un espacio y comunidad inclusivo para la mayor cantidad de personas, con la mayor variedad de orígenes y conocimientos posibles. Como tal, nos comprometemos a ofrecer un ambiente amigable, seguro y acogedor para todos, todas y todes, sin importar género, orientación sexual, discapacidad, etnia, estado socio-económico, religión o creencia.
+
+Este Código de Conducta expresa nuestras expectativas con respecto a quienes participan de nuestra comunidad, así como también las consecuencias de comportamientos inaceptables. Invitamos a todas las personas que participan de nuestros eventos a ayudarnos a crear experiencias seguras y positivas para el conjunto.
+<h3>Lenguaje inclusivo</h3>
+Apostamos por un uso gramatical del lenguaje que sea inclusivo y transformador, no solo para dar cabida a todas las personas de la comunidad sinó tambien como motor de avance hacia una sociedad no patriarcal. Por este motivo animamos a todas las visualistas que participan de esta plataforma a dejar de usar el masculino genérico tanto dentro como fuera de #supportvisualists. Esta es una muy buena oportunidad para que juntes aprendamos y avanzemos hacia una sociedad más justa e inclusiva. Si teneis dudas sobre como mejorar la inclusividad de vuestro lenguaje <a href="https://supportvisualists.org/wp-content/uploads/2020/04/Lenguaje-Inclusivo_-Guía-de-uso.pdf">aquí os adjuntamos una guía</a> publicada por la Asamblea No Binarie en 2018.
 <h3>Ciudadanía de Código/Cultura/Tecnología abierta</h3>
-Un objetivo suplementario de este Código de Conducta es incrementar la ciudadanía de código/cultura/tecnología abierta, incentivando a sus participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad.
-Las comunidades son espejo de las sociedades en las cuales existen y las acciones positivas son esenciales para contrarrestar las diversas formas de desigualdad y abuso de poder que existen en una sociedad.
-Si Ud. ve a alguien haciendo un esfuerzo extra por asegurarse que nuestra comunidad es acogedora, amistosa e incentiva a todos los que participan en ella a contribuir de manera completa, nos gustaría saberlo.
+Un objetivo suplementario de este Código de Conducta es incrementar la ciudadanía de código/cultura/tecnología abierta, incentivando a sus participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad. Las comunidades son espejo de las sociedades en las cuales existen y las acciones positivas son esenciales para contrarrestar las diversas formas de desigualdad y abuso de poder que existen en una sociedad. Si observa a alguien haciendo un esfuerzo extra por asegurarse que nuestra comunidad es acogedora, amistosa e incentiva a todes les que participan en ella a contribuir de manera completa, nos gustaría saberlo.
 <h3>Comportamiento esperado</h3>
-Participe de un modo auténtico y activo. Al hacerlo contribuye a la salud y longevidad de esta comunidad.
+Participe de un modo auténtico y activo!
+Al hacerlo contribuye a la salud y longevidad de esta comunidad.
+
 Ejercite la consideración y el respeto en su discurso y en sus acciones.
+
 Intente colaborar para evitar conflictos.
+
 Absténgase de discursos o comportamientos despectivos, discriminatorios o abusivos.
-Sea consciente de su entorno y de las otras personas que participen en el evento. Alerte a responsables de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso si parecieran poco importantes.
+
+Sea consciente de su entorno y de las otras personas que participan de esta comunidad. Alerte a responsables de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso si parecieran poco importantes.
 <h3>Comportamiento inaceptable</h3>
-Comportamientos inaceptables incluyen: discursos o acciones intimidantes, acosadores, abusivos, discriminatorios, despectivos o degradantes. El alcance incluye a todos/as los/as participantes de nuestra comunidad online en todos los eventos y comunicaciones personales llevadas a cabo en el contexto de las actividades de nuestra comunidad. Los lugares en donde se lleven a cabo eventos de la comunidad pueden ser compartidos con gente ajena a la misma, por favor sea respetuoso hacia las autoridades de dichos lugares.
+Comportamientos inaceptables incluyen: discursos o acciones intimidantes, acosadoras, abusivas, discriminatorias, despectivas o degradantes.
+
+El alcance incluye a la globalidad de participantes de nuestra comunidad online, así como en los eventos y comunicaciones personales llevadas a cabo en el contexto de las actividades de nuestra comunidad.
+
+En los espacios donde se lleven a cabo eventos de la comunidad pueden ser compartidos con gente ajena a la misma y con una normativa propia, por favor respete las normas de la cas.
+
 Acoso incluye: daño o perjurio verbal o escrito relacionado con género, orientación sexual, raza, religión, incapacidad; uso inapropiado de imágenes de desnudez (incluyendo presentaciones digitales); intimidación deliberada, acecho o persecución; fotografías o grabaciones abusivas; interrupción sostenida de presentaciones u de otros eventos; contacto físico inapropiado y atención sexual no deseada.
 <h3>Consecuencias del comportamiento inaceptable</h3>
-No serán tolerados los comportamientos inaceptables de parte de cualquier integrante de la comunidad así como aquellas personas con autoridad para tomar decisiones, también patrocinadores. Se espera de todas las personas que conforman la comunidad el inmediato cumplimiento al solicitársele suspender comportamientos inaceptables.
+No se tolerará ningún comportamiento inaceptable por parte de cualquier integrante de la comunidad así como de aquellas personas ajenas a #supportvisualists con autoridad para tomar decisiones en los eventos, también patrocinadores.
+
+Se espera de todas las personas que conforman la comunidad el inmediato cumplimiento al solicitársele suspender comportamientos inaceptables.
+
 Cualquier comportamiento inaceptable será sancionado por la organización de la comunidad, de cualquier forma que se considere apropiada, incluyendo la suspensión temporal o permanente de la participación en la comunidad, sin previo aviso (y sin reintegro del dinero, en caso de ser un evento pago).
 <h3>Si es testigo o víctima de comportamiento inaceptable</h3>
 Si Ud. es víctima o testigo de comportamiento inaceptable, o tiene cualquier otra preocupación o problema, por favor notifíquelo a la organización de la comunidad tan pronto como sea posible. Puede encontrar una lista de personas de la organización de la comunidad a contactar al final de esta página.
