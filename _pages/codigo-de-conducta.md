@@ -14,7 +14,7 @@ Un objetivo principal de esta plataforma es crear un espacio y comunidad inclusi
 
 Este Código de Conducta expresa nuestras expectativas con respecto a quienes participan de nuestra comunidad, así como también las consecuencias de comportamientos inaceptables. Invitamos a todas las personas que participan de nuestros eventos a ayudarnos a crear experiencias seguras y positivas para el conjunto.
 <h3>Lenguaje inclusivo</h3>
-Apostamos por un uso gramatical del lenguaje que sea inclusivo y transformador, no solo para dar cabida a todas las personas de la comunidad sinó tambien como motor de avance hacia una sociedad no patriarcal. Por este motivo animamos a todas las visualistas que participan de esta plataforma a dejar de usar el masculino genérico tanto dentro como fuera de #supportvisualists.
+Apostamos por un uso gramatical del lenguaje que sea inclusivo y transformador, no solo para dar cabida a todas las personas de la comunidad sinó tambien como motor de avance hacia una sociedad no patriarcal. Por este motivo animamos a todas las visualistas que participan de esta plataforma a dejar de usar el masculino genérico tanto dentro como fuera de #supportvisualists, así como a no tolerar la mofa hacia el uso de este tipo de lenguaje.
 
 Esta es una muy buena oportunidad para que juntes aprendamos y avanzemos hacia una sociedad más justa e inclusiva. Si teneis dudas sobre como mejorar la inclusividad de vuestro lenguaje <a href="https://supportvisualists.org/wp-content/uploads/2020/04/Lenguaje-Inclusivo_-Guía-de-uso.pdf">aquí os adjuntamos una guía</a> publicada por la Asamblea No Binarie en 2018.
 <h3>Ciudadanía de Código/Cultura/Tecnología abierta</h3>
