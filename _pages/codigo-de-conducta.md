@@ -20,15 +20,11 @@ Esta es una muy buena oportunidad para que juntes aprendamos y avanzemos hacia u
 <h3>Ciudadanía de Código/Cultura/Tecnología abierta</h3>
 Un objetivo suplementario de este Código de Conducta es incrementar la ciudadanía de código/cultura/tecnología abierta, incentivando a sus participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad. Las comunidades son espejo de las sociedades en las cuales existen y las acciones positivas son esenciales para contrarrestar las diversas formas de desigualdad y abuso de poder que existen en una sociedad. Si observa a alguien haciendo un esfuerzo extra por asegurarse que nuestra comunidad es acogedora, amistosa e incentiva a todes les que participan en ella a contribuir de manera completa, nos gustaría saberlo.
 <h3>Comportamiento esperado</h3>
-Participe de un modo auténtico y activo!
-Al hacerlo contribuye a la salud y longevidad de esta comunidad.
-
-Ejercite la consideración y el respeto en su discurso y en sus acciones.
-
-Intente colaborar para evitar conflictos.
-
-Absténgase de discursos o comportamientos despectivos, discriminatorios o abusivos.
-
+<p style="text-align: center;">Participe de un modo auténtico y activo!
+Al hacerlo contribuye a la salud y longevidad de esta comunidad.</p>
+<p style="text-align: center;">Ejercite la consideración y el respeto en su discurso y en sus acciones.</p>
+<p style="text-align: center;">Intente colaborar para evitar conflictos.</p>
+<p style="text-align: center;">Absténgase de discursos o comportamientos despectivos, discriminatorios o abusivos.</p>
 Sea consciente de su entorno y de las otras personas que participan de esta comunidad. Alerte a responsables de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso si parecieran poco importantes.
 <h3>Comportamiento inaceptable</h3>
 Comportamientos inaceptables incluyen: discursos o acciones intimidantes, acosadoras, abusivas, discriminatorias, despectivas o degradantes.
