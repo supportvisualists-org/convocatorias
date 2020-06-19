@@ -1,6 +1,6 @@
 ---
 ID: 191
-post_title: Home
+post_title: ""
 author: janebeta7
 post_excerpt: ""
 layout: page
